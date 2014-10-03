@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-I am learning, part two
+My name is Caylee, I am sitting next to Niklas Eklund. He is a player, but gets away with by saying he is just Sweedish.
